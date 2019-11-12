@@ -1,2 +1,3 @@
-# ComponentBuildingWithQuasar
-Created with CodeSandbox
+# Quasar App
+
+> WIP
